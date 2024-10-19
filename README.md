@@ -4,6 +4,12 @@
 Electro is a modern e-commerce platform offering a wide range of electronics such as laptops, mobiles, monitors, and headphones. This platform allows users to browse, filter, and purchase products with ease. The platform is built with the MERN stack, incorporating a responsive design and secure authentication.
 
 
+## Additional Resources
+
+- [Live Demo](https://electroecommerce.netlify.app/)
+- [Client Repository](https://github.com/Rakibulislam-emon/Electro_Client)
+- [Server Repository](https://github.com/Rakibulislam-emon/Electro_Server)
+
 
 
 ## Features
@@ -74,8 +80,3 @@ cd electro-ecommerce
 
 
 
-## Additional Resources
-
-- [Live Demo](https://electroecommerce.netlify.app/)
-- [Client Repository](https://github.com/Rakibulislam-emon/Electro_Client)
-- [Server Repository](https://github.com/Rakibulislam-emon/Electro_Server)
