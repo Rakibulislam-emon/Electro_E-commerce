@@ -14,13 +14,16 @@ Electro is a modern e-commerce platform offering a wide range of electronics suc
 
 ## Features
 
-- **User Authentication**: Secure login and registration with Firebase.
+- **User Authentication**: Secure login and registration Routes are protected by jwt(json web token).
 - **Product Search & Filtering**: Advanced search functionality with filtering options by categories and price ranges.
 - **Sorting & Pagination**: Sort products by price, ratings, or date of creation, with pagination for easier browsing.
 - **Shopping Cart**: Add products to the cart, view item count and subtotal instantly using React Query and Axios.
-- **Payment Integration**: Secure payment with Stripe.
-- **Admin Dashboard**: Manage products, view purchases, and handle customer queries.
 - **Responsive Design**: Optimized for all devices.
+  
+### Planned Features
+
+- **Admin Dashboard**: An admin dashboard will be implemented in the future to manage products and view order histories.
+- **Stripe Integration**: Stripe payment integration is planned for future updates to provide secure payment processing for users.
 
 
 ## Tech Stack
